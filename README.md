@@ -12,7 +12,8 @@ Você pode instalar as dependências usando pip:
 
 pip install tensorflow matplotlib numpy
 
-Estrutura do Projeto
+# Estrutura do Projeto
+
 Importação de Bibliotecas: Importamos as bibliotecas necessárias, incluindo TensorFlow, Keras, Matplotlib e NumPy.
 
 Carregamento e Preparação do Dataset: Carregamos o dataset MNIST e normalizamos os pixels das imagens para o intervalo [0, 1]. Adicionamos uma dimensão de canal para as imagens.
